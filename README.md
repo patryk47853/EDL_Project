@@ -1,0 +1,1 @@
+Dataset used in this project: https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci/data
