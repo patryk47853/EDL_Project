@@ -4,14 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="10732efe-1dd2-45b9-9862-53b5fb144369" name="Changes" comment="Add link for dataset">
+    <list default="true" id="10732efe-1dd2-45b9-9862-53b5fb144369" name="Changes" comment="Clear code, small updates">
       <change afterPath="$PROJECT_DIR$/data/raw/online_retail_II.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/EDL_Project.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_code/clustering_and_association_rules.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_code/clustering_and_association_rules.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_code/eda_and_feature_engineering.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_code/eda_and_feature_engineering.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_code/regression_and_classification.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_code/regression_and_classification.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +58,8 @@
     &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/patrykmaliszewski/PycharmProjects/EDL_Project/data/raw&quot;
+    &quot;last_opened_file_path&quot;: &quot;/Users/patrykmaliszewski/PycharmProjects/EDL_Project/data/raw&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;aDefault&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -116,12 +114,54 @@
       <option name="project" value="LOCAL" />
       <updated>1782059089953</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="clear">
+      <option name="closed" value="true" />
+      <created>1782132190377</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1782132190377</updated>
+    </task>
+    <task id="LOCAL-00006" summary="clear">
+      <option name="closed" value="true" />
+      <created>1782132193126</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1782132193126</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Clear code, small updates">
+      <option name="closed" value="true" />
+      <created>1782208730656</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1782208730656</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Clear code, small updates">
+      <option name="closed" value="true" />
+      <created>1782313043793</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1782313043793</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Clear code, small updates">
+      <option name="closed" value="true" />
+      <created>1782313047649</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1782313047649</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Temp" />
     <MESSAGE value="Add link for dataset" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add link for dataset" />
+    <MESSAGE value="clear" />
+    <MESSAGE value="Clear code, small updates" />
+    <option name="LAST_COMMIT_MESSAGE" value="Clear code, small updates" />
   </component>
 </project>
