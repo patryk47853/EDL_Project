@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="10732efe-1dd2-45b9-9862-53b5fb144369" name="Changes" comment="Clear code, small updates">
+    <list default="true" id="10732efe-1dd2-45b9-9862-53b5fb144369" name="Changes" comment="Add diagram: K-Distance for DBSCAN">
       <change afterPath="$PROJECT_DIR$/data/raw/online_retail_II.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/EDL_Project.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -154,7 +152,71 @@
       <option name="project" value="LOCAL" />
       <updated>1782313047649</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Clean">
+      <option name="closed" value="true" />
+      <created>1782399461143</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1782399461143</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Add diagram: Cluster comparison">
+      <option name="closed" value="true" />
+      <created>1782399478083</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1782399478083</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Add diagram: EDA overview">
+      <option name="closed" value="true" />
+      <created>1782489396382</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1782489396382</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Add diagram: Elbow Method &amp; Silhouette Score">
+      <option name="closed" value="true" />
+      <created>1782489417593</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1782489417593</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Add diagram: Dendrogram">
+      <option name="closed" value="true" />
+      <created>1782580660128</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1782580660128</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Add diagram: ROC Curves">
+      <option name="closed" value="true" />
+      <created>1782645630014</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1782645630014</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Add diagram: Feature importance">
+      <option name="closed" value="true" />
+      <created>1782645648748</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1782645648748</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Add diagram: K-Distance for DBSCAN">
+      <option name="closed" value="true" />
+      <created>1782733830264</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1782733830264</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -162,6 +224,14 @@
     <MESSAGE value="Add link for dataset" />
     <MESSAGE value="clear" />
     <MESSAGE value="Clear code, small updates" />
-    <option name="LAST_COMMIT_MESSAGE" value="Clear code, small updates" />
+    <MESSAGE value="Clean" />
+    <MESSAGE value="Add diagram: Cluster comparison" />
+    <MESSAGE value="Add diagram: EDA overview" />
+    <MESSAGE value="Add diagram: Elbow Method &amp; Silhouette Score" />
+    <MESSAGE value="Add diagram: Dendrogram" />
+    <MESSAGE value="Add diagram: ROC Curves" />
+    <MESSAGE value="Add diagram: Feature importance" />
+    <MESSAGE value="Add diagram: K-Distance for DBSCAN" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add diagram: K-Distance for DBSCAN" />
   </component>
 </project>
