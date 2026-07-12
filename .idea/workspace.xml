@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="10732efe-1dd2-45b9-9862-53b5fb144369" name="Changes" comment="Add diagram: K-Distance for DBSCAN">
+    <list default="true" id="10732efe-1dd2-45b9-9862-53b5fb144369" name="Changes" comment="update, clear">
       <change afterPath="$PROJECT_DIR$/data/raw/online_retail_II.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -216,7 +215,15 @@
       <option name="project" value="LOCAL" />
       <updated>1782733830264</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="update, clear">
+      <option name="closed" value="true" />
+      <created>1782827729015</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1782827729016</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -232,6 +239,7 @@
     <MESSAGE value="Add diagram: ROC Curves" />
     <MESSAGE value="Add diagram: Feature importance" />
     <MESSAGE value="Add diagram: K-Distance for DBSCAN" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add diagram: K-Distance for DBSCAN" />
+    <MESSAGE value="update, clear" />
+    <option name="LAST_COMMIT_MESSAGE" value="update, clear" />
   </component>
 </project>
